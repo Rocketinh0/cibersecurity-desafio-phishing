@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](file:///home/kali/Downloads/Screenshot_2024-12-29_22_54_12.png)
