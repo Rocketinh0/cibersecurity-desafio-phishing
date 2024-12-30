@@ -18,4 +18,5 @@
 
 ### Resutados
 
-![Alt text](C:\Users\thile\OneDrive\Documentos\VM archives\Screenshot_2024-12-29_22_54_12.png)
+
+![Screenshot_2024-12-29_22_54_12](https://github.com/user-attachments/assets/c7cc62fc-c540-4efb-bf69-e864c20bd4ce)
